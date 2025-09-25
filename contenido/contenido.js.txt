@@ -1,0 +1,4 @@
+contenido de JS
+1. elementos basico
+2. operadores, estructura y ciclos
+3. funciones 
